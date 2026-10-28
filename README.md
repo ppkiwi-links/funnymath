@@ -1,0 +1,2 @@
+# funnymath
+idk
